@@ -1,4 +1,4 @@
-                                               # DAY 2 CODE
+                                                       # DAY 2 CODE
 
 # ALWAYS BLOCK 1
 
